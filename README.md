@@ -1,5 +1,9 @@
 # Soumaoro.ml
 
+## 👋 À propos de moi
+
+Je m'appelle **Abdoulaye Soumaoro**, ingénieur en informatique avec plus de 11 ans d'expérience. Depuis plusieurs années, je me spécialise dans l'intelligence artificielle, la sécurité et la protection de la vie privée.
+
 ## 🎉 Bienvenue sur mon premier site GitHub Pages !
 
 Ce projet contient mon premier site web créé avec GitHub Pages.
@@ -13,6 +17,12 @@ Un site simple et rapide créé en quelques minutes en utilisant les capacités 
 - Site web statique simple
 - Hébergé gratuitement avec GitHub Pages
 - Créé rapidement sans complexité
+
+### 💼 Domaines d'expertise
+
+- **Intelligence Artificielle** - Machine Learning, Deep Learning, NLP
+- **Sécurité informatique** - Cybersécurité, protection des données
+- **Protection de la vie privée** - RGPD, anonymisation, chiffrement
 
 ### 📁 Fichiers
 
